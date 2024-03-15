@@ -20,7 +20,7 @@ This repository contains a powerful User Authentication API built with ExpressJS
 - Register User: `POST /auth/register`
 - Login User: `POST /auth/login`
 - Check Session Status: `GET /auth/status`
-- Logout User: `POST /api/logout`
+- Logout User: `POST /auth/logout`
 
 ## Contributing
 
